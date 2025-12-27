@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295814773974",
+    "project_id": "trashgoldbypawan",
+    "storage_bucket": "trashgoldbypawan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295814773974:android:fbc5b7acd038dec6f65d77",
+        "android_client_info": {
+          "package_name": "com.example.trashgold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295814773974-avvcufs5kpu0fdd5gipf6ktfptv8b6ei.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5PfsqPLp_TFka8jzYFF853akbB40dXIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295814773974-avvcufs5kpu0fdd5gipf6ktfptv8b6ei.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
